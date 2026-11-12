@@ -1,0 +1,5 @@
+{
+  "kid" : "status-1",
+  "payload" : "eyJpc3N1ZWRBdCI6IjIwMjYtMTEtMTJUMDk6MjU6NDhaIiwibGVhc2VVbnRpbCI6IjIwMjctMDItMTBUMDk6MjU6NDhaIiwicHJvbW8iOiJhY3RpdmUiLCJzY2hlbWEiOjEsInNlcmlhbCI6MX0=",
+  "sig" : "0aghgDo6KA4TasPly3INaANvWB6cRJR9nktXZVvhMKrSYiZ+NBO0EPsZoQAk6JvHtt+F42xyF+aqt45cQJxIBw=="
+}
